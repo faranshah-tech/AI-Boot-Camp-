@@ -1,1 +1,7 @@
-Hello world
+# 📂 Week 1: Environment Setup
+
+Tasks and exercises from the first week.
+
+## 🛠️ What I Did:
+* **Virtual Environments:** Created & managed isolated python environments.
+* **Basic Tasks:** Executed initial setup scripts.
